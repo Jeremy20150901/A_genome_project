@@ -7,6 +7,8 @@ The repository includes following documents:
     
 1. Abstract of article 
 
-2. python scripts for TEs 
+2. Python scripts for TEs 
+
+3. Graphics 
 
 
